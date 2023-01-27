@@ -17,7 +17,10 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 
 
+
 * [开发板介绍](docs/开发板介绍.md)
+    * [开发板接口](docs/开发板介绍/开发板接口.md)
+    * [LCD](docs/开发板介绍/LCD.md)
 * [烧写系统](docs/烧写系统.md)
 
 
@@ -25,7 +28,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ## 图示
 
-![20220714_143722_92](image/20220714_143722_92.png)
+![20230127_203812_24](image/20230127_203812_24.png)
 
 ![20220714_143828_80](image/20220714_143828_80.png)
 
